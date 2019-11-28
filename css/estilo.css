@@ -5,7 +5,7 @@ a{
 
 .mapa{
     position: relative;
-    padding-bottom: 75%; 
+    padding-bottom: 25%; 
     height: 0;
     overflow: hidden;
 }
