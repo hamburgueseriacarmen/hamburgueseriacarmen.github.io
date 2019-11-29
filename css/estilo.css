@@ -1,5 +1,6 @@
-.cuerpo{
-    background-color: #D7FF33;
+body{
+    background-image:url("images/fondochico.png");
+    background-repeat: repeat;
 }
 
 a{
